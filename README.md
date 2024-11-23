@@ -3,7 +3,7 @@
 **Author**: Daniil Komov
 
 ## Project Overview
-This repository serves as an example of distributed network of databases for online international store. The repository contains folders with dummy data for each database location and a frontend program which accesses MongoDB to display data based on the location.
+This repository serves as an example of distributed network of databases for online international store. The repository contains folders with dummy data for each database location and a frontend program which accesses MongoDB to display data based on the location. Even though Flask is usually used for backend, this is a great example which shows that Flask can be used for simple frontend related tasks.
 ## Usage
 ### Running
 
