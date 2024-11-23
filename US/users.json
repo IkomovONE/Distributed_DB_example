@@ -1,0 +1,8 @@
+[
+    { "_id": "1", "name": "Emily Johnson", "email": "Emily@gmail.com", "location": "US", "created_at": "2024-11-22" },
+    { "_id": "2", "name": "James Miller", "email": "James@gmail.com", "location": "US", "created_at": "2024-11-20" },
+    { "_id": "3", "name": "Ethan Anderson", "email": "Ethan@gmail.com", "location": "US", "created_at": "2024-11-20" },
+    { "_id": "4", "name": "William Taylor", "email": "William@gmail.com", "location": "US", "created_at": "2024-11-20" },
+    { "_id": "5", "name": "Benjamin Moore", "email": "Benjamin@gmail.com", "location": "US", "created_at": "2024-11-20" },
+    { "_id": "6", "name": "Ava Davis", "email": "Ava@gmail.com", "location": "US", "created_at": "2024-11-20" }
+]

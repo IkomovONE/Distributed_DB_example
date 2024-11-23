@@ -1,0 +1,8 @@
+[
+    { "s_id": "1", "s_name": "Sophia Brown", "store_name": "AutopartsUS", "email": "Sophia@gmail.com", "sales_region": "US", "created_at": "2024-11-22" },
+    { "s_id": "2", "s_name": "Olivia Smith", "store_name": "BestTech.us", "email": "Olivia@gmail.com", "sales_region": "US", "created_at": "2024-11-20" },
+    { "s_id": "3", "s_name": "Madison Wilson", "store_name": "Books.online", "email": "Madison@gmail.com", "sales_region": "US", "created_at": "2024-11-20" },
+    { "s_id": "4", "s_name": "William Taylor", "store_name": "LifeHackStore.us", "email": "William@gmail.com", "sales_region": "US", "created_at": "2024-11-20" },
+    { "s_id": "5", "s_name": "Michael Thomas", "store_name": "WorkingEquipment.us", "email": "Michael@gmail.com", "sales_region": "US", "created_at": "2024-11-20" },
+    { "s_id": "6", "s_name": "Benjamin Moore", "store_name": "PrankStuff.us", "email": "Benjamin@gmail.com", "sales_region": "US", "created_at": "2024-11-20" }
+]
