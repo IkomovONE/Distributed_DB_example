@@ -19,3 +19,9 @@ Then go to browser and enter URL given in terminal.
 ### Locations
 
 You can change the location using the selector on the top of the page. Then by pressing submit the data will change, as it will be gathered from another database.
+
+### Demonstration video
+
+You can access a demo video using this link:
+
+https://www.youtube.com/watch?v=nIhKN3gcMi0
