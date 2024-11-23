@@ -9,6 +9,8 @@ This repository serves as an example of distributed network of databases for onl
 
 To run the program, you will need to install Python, venv and have mongoDB connection, on port 27017. Create 3 databases (Europe, Asia and US), add collections (Users, Sellers, Products and Orders), then add data using file imports from repository folders (EU, Asia, US).
 
+In case the connection port for the MongoDB is different, change it in store.py code file: find a line where connection to mongoDB is being established, and write your own port number.
+
 Set virtual environment, install needed libraries (Flask, pymongo) and then run this command:
 
 ```bash
